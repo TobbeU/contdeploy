@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("contdeploy");
+            Console.WriteLine("contdeploy testing");
         }
     }
 }
